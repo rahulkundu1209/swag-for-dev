@@ -342,6 +342,15 @@
     "tags": ["clothing", "stickers"]
   },
   {
+    "name": "Geeks for Geeks",
+    "difficulty": "medium",
+    "description": "Solve daily problems on Geeks for Geeks to earn points(called Geek Bit). Then you can reedem those points to order T-Shirt/Bag/Course Discount Coupons freely.",
+    "reference": "https://practice.geeksforgeeks.org/problem-of-the-day/rule-book",
+    "image": "https://practice.geeksforgeeks.org/_next/image?url=https%3A%2F%2Fmedia.geeksforgeeks.org%2Fimg-practice%2FGroup7895-1651644285.png&w=1080&q=75",
+    "dateAdded": "2022-10-09T21:26:00Z",
+    "tags": ["clothing", "bag", "coupon"]
+  },
+  {
     "name": "Globo",
     "difficulty": "medium",
     "description": "Contribute 2 pull requests to Globo's Open Source Projects. At least 1 PR has to be accepted and you have to be in the first 200 registrants to get an exclusive t-shirt. Delivery only in Brazil.",
